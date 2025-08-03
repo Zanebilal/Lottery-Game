@@ -4,7 +4,7 @@
 
 # Project Title
 
-🎟️ Raffle – A Provably Fair Raffle Game Powered by Smart Contracts
+Raffle – A Provably Fair Raffle Game Powered by Smart Contracts
 
 # Description 
 
